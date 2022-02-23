@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A private peace-offering, for the discovery and disappointment of the late horrid conspiracy against the King, &amp;c. in a sermon preached July the 8th, in St. Helen's-Church London / by Henry Hesketh.</title>
+            <author>Hesketh, Henry, 1637?-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43455</idno>
+            <idno type="STC">Wing H1614</idno>
+            <idno type="STC">ESTC R10800</idno>
+            <idno type="EEBO-CITATION">11821260</idno>
+            <idno type="OCLC">ocm 11821260</idno>
+            <idno type="VID">49575</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49575)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 496:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A private peace-offering, for the discovery and disappointment of the late horrid conspiracy against the King, &amp;c. in a sermon preached July the 8th, in St. Helen's-Church London / by Henry Hesketh.</title>
+                  <author>Hesketh, Henry, 1637?-1710.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills, for Henry Bonwick ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Bible. --  O.T. --  Samuel, 2nd, XXII, 51 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49575:1" rendition="simple:additions"/>
+            <p>A Private Peace-Offering, FOR THE DISCOVERY AND DISAPPOINTMENT Of the Late <hi>Horrid Conſpiracy</hi> Againſt the KING, &amp;c.</p>
+            <p>IN A SERMON Preached <hi>July</hi> the 8th. in St. <hi>Hel<g ref="char:EOLhyphen"/>len</hi>'s-Church <hi>London.</hi>
+            </p>
+            <p>By <hi>Henry Hesketh</hi> Vicar there and Chaplain to His MAJESTY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H. Hills,</hi> for <hi>Henry Bonwick</hi> at the <hi>Red-Lyon</hi> in St. <hi>Paul</hi>'s Church-Yard. 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49575:2"/>
+            <pb facs="tcp:49575:2"/>
+            <head>To my good Friends, the Pari<g ref="char:EOLhyphen"/>ſhioners of St. <hi>Hellens.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen.</salute>
+            </opener>
+            <p>THIS mean diſcourſe that you were pleaſed ſo kindly to entertain at the hearing of, and ſo devoutly to joyn with me in the purpoſe of; I offer now to you, as juſtly your own.</p>
+            <p>To the end, that amidſt the many Honeſt and Loyal Addreſſes at preſent, in which good Men congratulate the ſafety of their Prince, and make freſh Vows of Loyalty and Service to him; we may do ſomething to intereſt Religion in this affair. Not only Sacrifice to that God, from whom this ſafety ſo ſig<g ref="char:EOLhyphen"/>nally derives, but alſo ingage his Pro<g ref="char:EOLhyphen"/>vidence
+<pb facs="tcp:49575:3"/> and bleſſing, for the continuance of it, without which the utmoſt care and Loyalty of Subjects are but feeble things.</p>
+            <p>It may ſerve you as a kind of <hi>Paraſceve</hi> to the great and publick Euchariſt, that (I am confident) you will ſhortly be called unto; In which I ſhall be glad to do you further Service, and in every thing elſe, wherein I may approve my ſelf,</p>
+            <closer>
+               <dateline>
+                  <date>July the 16th. 1683.</date>
+               </dateline>
+               <signed>Your Servant in the Goſpel, <hi>H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. Hesketh.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:49575:3"/>
+            <epigraph>
+               <q>
+                  <bibl>2 Sam. 22.51.</bibl>
+                  <p>He is the Tower of ſalvation for his King, and ſheweth mercy to his Anointed, unto <hi>David,</hi> and to his ſeed for evermore.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Song that is recorded here, and is the Eighteenth in the number of the <hi>Pſalms</hi> (as you may ſee if you pleaſe to compare them together) was Old <hi>David</hi>'s laſt grateful Re<g ref="char:EOLhyphen"/>cognition, and Song of Praiſe, towards the latter end of his days, when he reflected upon the many ſignal deliverances, and providences of God towards him.</p>
+            <p>The truth is my Brethren I can hardly re<g ref="char:EOLhyphen"/>flect upon <hi>David</hi> either in the troubles that befell him before he came to the Crown, or the many remarkable ſtrange deliver<g ref="char:EOLhyphen"/>ances
+<pb n="2" facs="tcp:49575:4"/> that he had, both before and after; but I muſt preſently think of our preſent Gra<g ref="char:EOLhyphen"/>cious King, and my mind naturally is run<g ref="char:EOLhyphen"/>ning a parallel between them.</p>
+            <p>As God Almighty choſe the one to be an inſtance of that care and providence that he hath over Kings, to the Old World: So hath he been pleaſed to make the other as famous an inſtance of the like care, to the New. And I believe future Ages will rather admire, than believe thoſe ſtrange and happy occurrences of his life, which we have ſo much cauſe thankfully to adore.</p>
+            <p>You will eaſily gueſs the reaſon why I ſtep out of my former courſe and me<g ref="char:EOLhyphen"/>thod of Preaching at this time; it is to offer up a particular ſacrifice of Praiſe, for the happy preſervation of our King, and us all too, from a ſad and bloody Conſpi<g ref="char:EOLhyphen"/>racy, that it ſeems was formed againſt him, by unreaſonable and bloody Men, whom no ties of Religion, or Nature, of Huma<g ref="char:EOLhyphen"/>nity or Gratitude could reſtrain from the moſt unworthy and ungrateful conſpiracy a<g ref="char:EOLhyphen"/>gainſt him.</p>
+            <pb n="3" facs="tcp:49575:4"/>
+            <p>We might ſtay I confeſs, till Authority went before us, and was pleaſed to mark out a time for a publick Thankſgiving, as I hope e're long it will.</p>
+            <p>But certainly a double ſacrifice is due now from us, if ever it were; I doubt not but all good Men have had their private Eucha<g ref="char:EOLhyphen"/>riſts and in their cloſet pay'd their devouteſt Praiſe for this mercy; and I would we ſhould give ſome publick ſpecimen of it at preſent too.</p>
+            <p>I cannot but think our hearts are brim full with a great ſenſe of this mercy, I do therefore by the preſent diſcourſe only ſtrive to give vent unto them, in offering them occaſion to break out into this joyful re<g ref="char:EOLhyphen"/>cognition: <hi>He is the Tower of ſalvation to his King, and ſheweth mercy unto his Anointed, unto</hi> David <hi>and his ſeed for evermore.</hi>
+            </p>
+            <p>This <hi>Pſalm</hi> and the occaſion of it, will too well ſuit our preſent purpoſe. The un<g ref="char:EOLhyphen"/>natural Rebellion of <hi>Abſolom</hi> had been late<g ref="char:EOLhyphen"/>ly ſuppreſſed, which was the laſt that ever <hi>David</hi> was troubled with, unleſs it were <hi>Sheba</hi>'s conſpiracy, which was but only the remainder and dregs of it.</p>
+            <pb n="4" facs="tcp:49575:5"/>
+            <p>And our <hi>David</hi> is now happily delivered from the effects of a Rebellion, either formed or fomented, by a like unnatural Son too; only ſo much the worſe, and more Impardonable than <hi>Abſolom,</hi> by how much his endearments have been greater, and he careſſed and obliged by the paſſionate love, and extraordinary kindneſs of the moſt indulgent Father, from whom he never received the leaſt diſplea<g ref="char:EOLhyphen"/>ſure, nor any effects of it, as <hi>Abſolom</hi> be<g ref="char:EOLhyphen"/>fore (though deſervedly) had done.</p>
+            <p>I do not intend to parallel all the cir<g ref="char:EOLhyphen"/>cumſtances of both the Treaſons, bleſſed be God, we have a better, and more grate<g ref="char:EOLhyphen"/>ful Theam, the Praiſing God for the deli<g ref="char:EOLhyphen"/>verance from it, <hi>who is a Tower of ſalvation unto his King, and hath ſhewed mercy unto his Anointed:</hi> And to Pray that they may cor<g ref="char:EOLhyphen"/>reſpond in one circumſtance alſo, as well as in many others, that as that was, ſo this may be the laſt, that our King ever may be di<g ref="char:EOLhyphen"/>ſturb'd withal.</p>
+            <p>And that if any Factious and Seditious <hi>Sheba</hi>'s ſhall blow up any future ſparks of this (I hope I may ſay, extinguiſhed flame) they may meet with <hi>Sheba</hi>'s fate,
+<pb n="5" facs="tcp:49575:5"/> and loſe thoſe heads, that dare think an ill thought againſt the Lords Anointed.</p>
+            <p>This Text is a grateful acknowledgment of Gods great mercy and providence towards <hi>David</hi> his Anointed King over <hi>Iſrael,</hi> in which after he had reflected in the prece<g ref="char:EOLhyphen"/>dent Song upon his many ſignal deliver<g ref="char:EOLhyphen"/>ances, he comes in this concluſion of it, to recognize the great efficient and Au<g ref="char:EOLhyphen"/>thor of them all, the great love, and imme<g ref="char:EOLhyphen"/>rited mercy of God, he is the Tower of ſtrength to his King, 'tis he that ſheweth mercy to his Anointed.—In the laſt verſe of the <hi>18th. Pſalm,</hi> which I hinted before, this Song is put into the number of the <hi>Pſalms;</hi> there is a little variation in the Phraſe though not in the ſenſe, there in<g ref="char:EOLhyphen"/>ſtead of, he is a Tower of defence to his King, it is, he giveth great deliverance to his King.</p>
+            <p>And the truth is, God was pleaſed to ſigna<g ref="char:EOLhyphen"/>lize his care and providence over <hi>David,</hi> in many great and remarkable deliverances from dangers, which no human policy could ever ſee a way for him to eſcape out of.</p>
+            <pb n="6" facs="tcp:49575:6"/>
+            <p>My deſign is not to give you the Hiſtory at large of <hi>Davids</hi> great and many troubles, and his wonderful miraculous eſcapes out of them, though they would be an excel<g ref="char:EOLhyphen"/>lent foundation for what I purpoſe to ſpeak to at preſent.</p>
+            <p>Snares and dangers awaited him almoſt in every place, and the Lyon and the Bear that infeſted his Flock in the Wilderneſs, were but the too true preſages of thoſe ca<g ref="char:EOLhyphen"/>lamities and dangers that ſhould haunt and dog himſelf afterwards.</p>
+            <p>Sometimes his Enemies, and ſometimes his Friends are perſecuting and conſpiring againſt him; ſometimes the Camp and ſometimes his own houſe are made the ſcenes of his danger. Now an open Enemy invades and aſſaults him, and now a Treache<g ref="char:EOLhyphen"/>rous Confident ſeeks to betray him; and laſt of all his own Son forms and heads a deſ<g ref="char:EOLhyphen"/>perate Rebellion againſt him.</p>
+            <p>But ſo many as were his troubles and dangers, ſo many were the Acts and in<g ref="char:EOLhyphen"/>ſtances of the divine providence and in<g ref="char:EOLhyphen"/>terpoſition for him, and one as remark<g ref="char:EOLhyphen"/>able every way (or more) than the other, till
+<pb n="7" facs="tcp:49575:6"/> at laſt you read of his giving him reſt from all his Enemies on every ſide, and of every kind too, and giving him leiſure to paſs his old Age in comfort and ſafety, attending quietly the duties of Religion, and his de<g ref="char:EOLhyphen"/>votion to that God, whoſe mercies had been ſo great and extraordinary towards him, into whoſe hands at laſt he reſigned his devout Soul, in comfort and in peace.</p>
+            <p>But the inſiſting at large upon theſe things would prevent me wholly from what I chiefly purpoſe at this time, which I intend to diſpatch in theſe three things.</p>
+            <p n="1">1. Inſtance the care and providence of God towards Religious Kings and Gover<g ref="char:EOLhyphen"/>nours, and inquire a little into the reaſons of it.</p>
+            <p n="2">2. Remark this care and providence to<g ref="char:EOLhyphen"/>wards our King.</p>
+            <p n="3">3. Make ſome deductions and inferences, by way of application.</p>
+            <p n="1">1. The <hi>1ſt.</hi> is to aſſert the care and pro<g ref="char:EOLhyphen"/>vidence of God over good Kings; for though it be in the Text in the ſingular number. <hi>He is the Tower of Salvation to his King,</hi> yet we ſhall find, <hi>Pſ.</hi> 144.10. that
+<pb n="8" facs="tcp:49575:7"/> it is equally in the Plural Number; it is he that giveth ſalvation unto Kings, as well as he that delivereth <hi>David</hi> from the peril of the Sword,</p>
+            <p>It is piouſly acknowledged by our Church, in one of the Collects appointed upon <hi>November 5th.</hi> that God in all Ages hath ſhewed his power and mercy in the miracu<g ref="char:EOLhyphen"/>lous and gracious Deliverances of his Church, and in the Protection of Righteous and Re<g ref="char:EOLhyphen"/>ligious Kings, from the wicked Conſpiracies, and malicious Practices of their Enemies.</p>
+            <p>And it is certainly true, and ſpoken upon very good reaſons, and ſhould we revolve the Stories of all Ages of the World, we ſhould ſcarce fail of meeting with many inſtances of this nature, in every Age of it. It cannot be expected that I ſhould ſtay to examine theſe at preſent, and to trace theſe mighty providences of God, through the ſeveral Periods of the World; there are enough in the ſacred Hiſtory of your Bibles, and there are more in the Hiſtories of all Religious and Chriſtian Nations, and out of them men may furniſh themſelves with in<g ref="char:EOLhyphen"/>ſtances enough.—Though the truth is this
+<pb n="9" facs="tcp:49575:7"/> Generation hath ſeen enough, to ſuper<g ref="char:EOLhyphen"/>ſide its need of looking after any more.</p>
+            <p>I ſhall therefore proceed to inquire a little into the great reaſons of this pro<g ref="char:EOLhyphen"/>vidence, and examine what probably may be the cauſes, why God is pleaſed to give ſuch ſpecimens of his guarding of them, and care over them.</p>
+            <p n="1">1. And Firſt, this doubtleſs proceeds from his great care and reſpect to the ſocieties of Men, and their happineſs in the World.</p>
+            <p>It is moſt certain, Government is one of the greateſt bleſſings that can be in<g ref="char:EOLhyphen"/>joyed by Men here, and both the rea<g ref="char:EOLhyphen"/>ſon of the thing, and the general con<g ref="char:EOLhyphen"/>ſent of Men, prove, and allow it to be ſo; and in elder times thoſe have been honoured as Gods, that have been hap<g ref="char:EOLhyphen"/>pily inſtrumental in reducing men to it, all mortal honors have been accounted too mean for them, and too much below the bleſſings injoyed by them.</p>
+            <p>And it is as certain, that Monarchy is the Beſt form of Government in it ſelf; and
+<pb n="10" facs="tcp:49575:8"/> that Kings are the moſt regular conſerva<g ref="char:EOLhyphen"/>tours of Order and Goverment, as hath not long ſince been proved in this place.</p>
+            <p>So that my Brethren, Kings are really for the good and happineſs of the peo<g ref="char:EOLhyphen"/>ple, and the good of the one is included in, and greatly dependent upon the o<g ref="char:EOLhyphen"/>ther, and whatever we may think of their grandure, or how much ſoever we may ſtare at their Pomp and Glory, it is we that really gain by all, and the World is preſerv'd and kept from Barbariſme, and Confuſion by their means.</p>
+            <p>And becauſe God loves the Societies of Men, and delights in the peace and order of them, therefore he is ſo ten<g ref="char:EOLhyphen"/>der and careful of Kings, and ſo ſeldom lets violence touch and prevail a<g ref="char:EOLhyphen"/>gainſt them; and indeed we may truly ſay, he never doth this, but when the wick<g ref="char:EOLhyphen"/>edneſs of People and Nations is grown high, and Clamorous, and even extorts vengance from Heaven, it is the ſins of the People, which are to be puniſhed, that pro<g ref="char:EOLhyphen"/>voke God at any time to pull down his
+<pb n="11" facs="tcp:49575:8"/> wall of protection about good Kings.</p>
+            <p n="2">2. Becauſe Government is his own In<g ref="char:EOLhyphen"/>ſtitution, and Kings his own immediate ſubſtitutes and delegates.</p>
+            <p>I do not think it needful to exa<g ref="char:EOLhyphen"/>mine the accounts that have been given of the original of Government, by the great factor for Atheiſm in this Nation, which have been ſo greadily ſucked in by ſo many of the young Gentry of this Age, and indeed almoſt all orders of Men, which have tainted the ancient Loy<g ref="char:EOLhyphen"/>alty of this People to ſuch a monſtrous degree; I have done this alſo not long ago in this place.</p>
+            <p>We that are at all converſant in the Holy Scriptures, or indeed have any be<g ref="char:EOLhyphen"/>coming thoughts of the power and pro<g ref="char:EOLhyphen"/>vidence of God, his care over the World, and his concern for the welfare and good of it; may be aſſured, that Govern<g ref="char:EOLhyphen"/>ment is Gods own inſtitution and ordi<g ref="char:EOLhyphen"/>nance, as St. <hi>Paul</hi> calls it; that he hath both inſtituted the thing, and fitted Men for it; that Government is a Divine gift, as
+<pb n="12" facs="tcp:49575:9"/> the ſame St <hi>Paul</hi> calls it, and that he teacheth Kings and Princes wiſdom, and that by him they Reign, as <hi>David,</hi> and <hi>Solomon</hi> both tell us.</p>
+            <p>So that Kings are immediately con<g ref="char:EOLhyphen"/>ſtituted by God, they are his Viceroys, therefore he is called King of Kings and Lord of Lords, and they are often in the Holy Scripture called Lords and, Gods, becauſe they bear the characters of his Power and Greatneſs, are little Ima<g ref="char:EOLhyphen"/>ges of his Soveraignty, and the conveigh<g ref="char:EOLhyphen"/>ers of bleſſings to Men, which are not below the greatneſs of a God to give.</p>
+            <p>Therefore they are called the Anoin<g ref="char:EOLhyphen"/>ted of the Lord, in this and many other Texts of Scripture, and we may obſerve that as the Scriptures intitle God more eſpecially to a care and regard of them, ſo they ſeem to take notice of that ex<g ref="char:EOLhyphen"/>traordinary awe and veneration to them, that God hath implanted Naturally in the breaſts of all Men, to keep them at a due diſtance from them, and to reſtrain all thoughts of violence againſt them.</p>
+            <pb n="13" facs="tcp:49575:9"/>
+            <p>And all this to keep up, and to give credit to his own inſtitutions among Men; yea to hedge up his own honour and keep Men from any intrenching upon it, for he is concerned in his own Image, and what diſhonour or wrong is offer'd to them, redounds in ſome meaſure to himſelf, as we have always ſeen it <hi>de facto</hi> true, thoſe never much fear God, that honour not their King, the Church and the Throne always ſuffer together, and Traytors and Rebells were never very Religious, nor can be, though it muſt be confeſſed none make greater pretence to it, that pretence of duty to God may take off the guilt of Diſloyalty to the King, though there is not an inſtance of more wretched and fulſome hypocreſie in the World.</p>
+            <p n="3">3. Another cauſe perhaps may be, the extraordinary and difficult task that God hath laid upon them.</p>
+            <p>What vain men may think I know not, but certainly to Govern is the moſt dificult province in the World. Obedience is a
+<pb n="14" facs="tcp:49575:10"/> thing eaſily learn'd, it lies in a narrow compaſs, but to command and order well is extreamly hard, Every one that is in any little meaſure of Power finds it ſo, not a Maſter of a Family but is ſenſible of it.</p>
+            <p>How eaſily then may we gueſs, what a task he hath upon him, that is to Rule us all. Man is through his Vices and Debaucheries a very wild ungovern<g ref="char:EOLhyphen"/>able creature, and perhaps the moſt Salvage may better and eaſier be kept in awe, though there is difference among Men, and I wiſh he knew not too well who are the fierceſt.</p>
+            <p>The multitude hath in the Symbolls of all wiſe Nations been compared to a very fierce and wild Beaſt, that is not eaſily Governed, and that expreſſion in <hi>Pſ.</hi> 65.7. goes higher, where the madneſs of the People is compared to the raging of the Sea, and the ſame Power ſaid to rule the one that ſtilleth the other, and if ſo, we need nothing more to tell us, how difficult Government is.</p>
+            <pb n="15" facs="tcp:49575:10"/>
+            <p>And therefore as where God gives much he requires more; ſo where he requires much he gives more; I mean propor<g ref="char:EOLhyphen"/>tions his care and providence, his grace and mercy, anſwerable to the duty that he hath Impoſed, and becauſe Kings carry heavier burthens of care and trou<g ref="char:EOLhyphen"/>ble than other Men, therefore is the Di<g ref="char:EOLhyphen"/>vine care and protection greater over them, and more concerned for them.</p>
+            <p n="4">4. Eſpecially <hi>4ly.,</hi> Becauſe they are expoſed unto greater dangers than other Men; the riſing Sun exhales and draws up many vapours, and there never were, or will want thoſe that will look upon Kings with an evil Eye.</p>
+            <p>As long as there are Devils in Hell, who delight in, and will be contriving the miſery and confuſion of Men, ſo long will they be ſtanding at the hands of Kings, and endavouring to ſtir up evil Men againſt them.</p>
+            <p>And ſo long as Pride and Ambition, Covetouſneſs and diſcontent find places to harbour in, there will not want Tray<g ref="char:EOLhyphen"/>tours
+<pb n="16" facs="tcp:49575:11"/> and Rebells, Men that will envy Powre and greatneſs, and will be con<g ref="char:EOLhyphen"/>triving means by which to ſurpriſe and graſpe them into their own hands; when Men have once given entertainment to ſuch luſts as theſe, and committed themſelves to the conduct of them; a Crown is a glittering temptation, and ſuch as they cannot reſiſt, their minds will run upon greatneſs, and will ever be beating to find out ways to it, and what<g ref="char:EOLhyphen"/>ever appears with a promiſe or ſhew of ſucceſs, ſhall certainly find ready admit<g ref="char:EOLhyphen"/>tance and be entertained, and perſued how unjuſt or violent, how bloody and miſchievous ſoever it may be. For a Crown will legitimate all crimes to get it, and greatneſs will attone for any evil, that tends to the compaſſing of it.</p>
+            <p>This is a ſad and evil return I confeſs, that Kings have for all their labour and trouble, their watchings and cares, but it is ſuch, as conſidering the luſts of Men, they will never miſs of.</p>
+            <pb n="17" facs="tcp:49575:11"/>
+            <p>And therefore the Divine providence is the greatlier concerned for them, and know<g ref="char:EOLunhyphen"/>ing their dangers doth more carefully guard and ſuper-intend them, juſt as in the caſe of juſt and good Men, if God per<g ref="char:EOLhyphen"/>mit evils to haunt them, or overtake them, he either doubles his care, or their com<g ref="char:EOLhyphen"/>forts; as their troubles abound, ſo their conſolations from God abound alſo.</p>
+            <p>So it is that in this caſe, the more dangerous and hazardous that their con<g ref="char:EOLhyphen"/>dition is, the more doth the Divine Pro<g ref="char:EOLhyphen"/>vidence take care of them, and the more ſignally remark it ſelf, in their protection and preſervation.</p>
+            <p n="2">2. And theſe reaſons now will not on<g ref="char:EOLhyphen"/>ly be accounts of the thing in general, but eſpecially of the preſervations of our gracious King, Gods providence to whom I have promiſed to remark in the ſecond place.</p>
+            <p>It is plain how all theſe reaſons con<g ref="char:EOLhyphen"/>centre in our caſe, never did a Nation injoy more by a King than ours hath done by this, and perhaps had one of
+<pb n="18" facs="tcp:49575:12"/> any other temper Govern'd in our times, our caſe had had a worſe Criſis, never were People more happy, then we might be under him if we pleaſe, and were not the fault our own.</p>
+            <p>Never was it more remarkably true, that the Powers that are over us, are ſet over us by God, then in our caſe, his Reſtauration being a Miracle in the ſight of all the World.</p>
+            <p>Never had a Prince a harder task, then ours hath had, coming to Govern a Peo<g ref="char:EOLhyphen"/>ple, that are not only to their ſhame, ſaid to be more ungovernable, more fickle and changeable than other Nations, but be<g ref="char:EOLhyphen"/>ing broken into Factions and Differences, and leven'd with the looſe principles of Rebellion and Uſurpation as we were, and we ſee how cloſe theſe tinctures and ill principles yet ſtick to too many Mens minds, and that length of time heightens and rankles them, rather then heal and carry them off.</p>
+            <p>And I would it could not be ſaid as truly too, that never was a Prince ex<g ref="char:EOLhyphen"/>poſed
+<pb n="19" facs="tcp:49575:12"/> to more dangers, and troubles than he hath been.</p>
+            <p>For ſhould we recollect the paſt paſſa<g ref="char:EOLhyphen"/>ges of his life, and ſoberly make remarks upon the ſame, I do not well know whe<g ref="char:EOLhyphen"/>ther we ſhould more admire his fate, and wonder that ſo many dangers and adver<g ref="char:EOLhyphen"/>ſities ſhould concenter to ſpend their ſpight againſt one Man, or that providence and care of almighty God, that hath ſtill brought him through, and delivered him out of them all.</p>
+            <p>I have a Copious Theam here before me, and ſhould I enter upon it, could not want matter for a long diſcourſe; ſhould I either play the Hiſtorian, or the Oratour, go either to recount the dangers and deliverances, that have be<g ref="char:EOLhyphen"/>fell him, or to enhanſe and heighten the circumſtances of Gods extraordinary care and providence in them; here were a large field before me for both, in which I ſhould run my ſelf out of breath, ſooner then exhauſt the ſubject.</p>
+            <pb n="20" facs="tcp:49575:13"/>
+            <p>But I muſt forbear this now, out of a neceſſary reſpect to the time, and your patience, and I do it with the leſs regret, and the more contentedly, becauſe it is a known ſubject, in which every one that hears me can prevent me, and en<g ref="char:EOLhyphen"/>large it ſufficiently himſelf, and I do not doubt, but we ſhall have an occaſion e're long, publickly to do the ſame.</p>
+            <p>So great a mercy will not paſs I hope without a publick and ſolemn recogni<g ref="char:EOLhyphen"/>tion, among thoſe that ſeem ſo ſenſible of the greatneſs of it; I doubt not but there would have been mock thankſgivings enough, had theſe black deſigns ſucceeded, and God would have been intitled to it, and his providence magnified in it, as we have ſeen it done in almoſt as bad in<g ref="char:EOLhyphen"/>ſtances.</p>
+            <p>I am ſure it is more juſt in this, the Lords hand hath been viſibly ſtretched out in this deliverance, and in many others, and it ought to be marvellous in our eyes; to this we may ſafely intitle this deliverance, and magnifie his mercy in it
+<pb n="21" facs="tcp:49575:13"/> without any fear of mocking and affront<g ref="char:EOLhyphen"/>ing him to his face, as we have ſeen men too often have done.</p>
+            <p>The truth is, his life hath been a con<g ref="char:EOLhyphen"/>tinual Scene of providence, and danger even from his Cradle, and I am apt to think (as I told you before) when future Ages ſhall veiw the Acts of it, they will either conclude them ſome extravagant Sallies of Hiſtorians, or think him to have been a perſon, whom Providence hath ſelected out of the Maſſe of man<g ref="char:EOLhyphen"/>kind, to be an inſtance what great things God can do for thoſe that truſt in him, and to ſhew how careful he is of the Lives and Perſons of thoſe Princes, to whom Religion and his honour is dear as their own Crowns, as it is at preſent.</p>
+            <p>Theſe providences and cares have been freſhly inſtanced very lately, in a deliverance from a Conſpiracy and Trea<g ref="char:EOLhyphen"/>ſon, hatched by thoſe Men, that no Bands, no kindneſſes, no endearments, no Oaths, no pretenſes of Proteſtant Reli<g ref="char:EOLhyphen"/>gion, could reſtrain from the moſt
+<pb n="22" facs="tcp:49575:14"/> Barbarous intendments againſt him, a<g ref="char:EOLhyphen"/>gainſt us, and againſt all, that can be thought Dear and Valuable unto Chri<g ref="char:EOLhyphen"/>ſtian Men.</p>
+            <p>And therefore our utmoſt gratitude is due, both upon our love to him, and to our ſelves too.</p>
+            <p>All our deareſt intereſts, are bound up in his life, and next to Gods Protection and Bleſſing owe their ſtabiliment and continuance to it; and it ſeems our Enemies think ſo too, and therefore go to wound us through his ſides, and to en<g ref="char:EOLhyphen"/>ſlave us, by his deſtruction.</p>
+            <p>Oh! what cauſe have we then to be as ſenſible of this deliverance, as if our own ſelves had lain bound under the fatal Knife, and our own Throats immediate<g ref="char:EOLhyphen"/>ly reſcued from it.</p>
+            <p n="3">3. But that I intend among the in<g ref="char:EOLhyphen"/>ferences and uſes that I purpoſe to make of this diſcourſe; which was the <hi>3d.</hi> thing propoſed.</p>
+            <p n="1">1. And <hi>1ſt.</hi> I would improve it to the diſcouragement of all Traytours, and ill minded perſons againſt him.</p>
+            <pb n="23" facs="tcp:49575:14"/>
+            <p>To let them ſee how hopeleſs and mi<g ref="char:EOLhyphen"/>probable, all their wicked attempts a<g ref="char:EOLhyphen"/>gainſt him are like to be.</p>
+            <p>It may be urged (bleſſed be God) now upon ſecond cauſes and conſiderations, as well as upon Gods providence.</p>
+            <p>God be thanked the caſe is alter'd from what it was not long ago,—when one in Print durſt adviſe him to lay down his Government, as the only expedient to his ſafety.</p>
+            <p>Mens Eyes are open'd, and cleared from thoſe miſts that cunning Men have been caſting before them, they ſee into the truth of things in a great meaſure, and I hope will in a ſhort time ſee much more.</p>
+            <p>There is no rival power now to beard Majeſty, and confront it, and hector it into a conſent to them in every thing they pleaſe.</p>
+            <p>The power and ſtrength of the Na<g ref="char:EOLhyphen"/>tion is in his own and his true con<g ref="char:EOLhyphen"/>fidents hands, and may it ever con<g ref="char:EOLhyphen"/>tinue ſo; and in all probability we are
+<pb n="24" facs="tcp:49575:15"/> ſafe, and may defie all Plots, and Inſur<g ref="char:EOLhyphen"/>rections, eſpecially if Men continue that care, that (God be thanked) they have of late, almoſt out done their Enemies in.</p>
+            <p>
+               <hi>But unleſs God watch the City, the Watch<g ref="char:EOLhyphen"/>men watch but in vain;</hi> and without his Protecting the King, all Guards are weak and feeble things.</p>
+            <p>And therefore I would preſs the diſ<g ref="char:EOLhyphen"/>couragment, upon that account, let Men conſider what a darling of Providence hitherto he hath been, and how probably all attempts againſt him will be vain, that hitherto have been ſo, though never ſo cloſely and cunningly and probably contrived.</p>
+            <p>God hath delivered him, and doth de<g ref="char:EOLhyphen"/>liver him, and we have cauſe to hope, as well as Pray, that he will ſtill continue to deliver him.</p>
+            <p n="2">2. Which is a <hi>2d.</hi> proper Inferance, and ſuggeſts a good Chriſtian Duty to us at preſent; not only to Praiſe his Name, give him our devouteſt and moſt inlarged
+<pb n="25" facs="tcp:49575:15"/> thanks for all his Mercies, for his former deliverance, and for this laſt almoſt great<g ref="char:EOLhyphen"/>eſt of all.</p>
+            <p>But to make it our daily Prayer, that he will ſtill continue his hedg of Protecti<g ref="char:EOLhyphen"/>on about him, depute his Holy Angel ſtill to guard and defend him, ſcatter all his Enemies that delight in violence, and Blood, ſuffer no weapon that is formed againſt him to proſper, but ſtill follow him with bleſſing and loving kindneſs.</p>
+            <p>The Church directs us well in this caſe, it is a ſtated part in our Liturgy. And I pray God, its doing, and teaching us to do this ſo often, be not one preſent (as well as our Royal Martyr'd Maſter thought it to be one former) great ex<g ref="char:EOLhyphen"/>ception againſt it.</p>
+            <p n="3">3. And laſtly that we utterly abhor all ſuch practices, and rid our ſelves of all thoſe diſloyal Antimonarchical principles, that naturally lead and diſpoſe to them.</p>
+            <pb n="26" facs="tcp:49575:16"/>
+            <p>Unleſs we would be found to be of the Number of thoſe that fight againſt God, and go to pull down that, which he hath allways ſhewed himſelf ſo dear and tender of.</p>
+            <p>I hope all honeſt Men, will begin to be wiſe, open their Eyes now, and wil<g ref="char:EOLhyphen"/>fully ſhut them no longer againſt plain and palpable evidences.</p>
+            <p>Permit themſelves to be wheedled no longer into Rebellion and Treaſon, under pretences of Loyalty, nor believe thoſe Men to be the beſt Subjects that make ſuch a noiſe with their Loyalty to, and concern for the King.</p>
+            <p>That they will not Sully the honour of the Proteſtant Religion any more, with Faction againſt the Church, or Trea<g ref="char:EOLhyphen"/>ſon againſt the State.</p>
+            <p>They have been often to<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the dan<g ref="char:EOLhyphen"/>ger of ſuch principles, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een warned of the ſad effects that they would lead Men into; I hope they will now begin to conſider things truly and not ruin their Souls and Bodies too, their Eſtates,
+<pb n="27" facs="tcp:49575:16"/> Relations, and all that depend upon them, by things that both God and Man abhor.</p>
+            <p>But hereafter joyn with us in the Com<g ref="char:EOLhyphen"/>munion of that Church, and Religion, that teacheth truly our duty both to God and <hi>Caeſar,</hi> that eſtabliſheth Sub<g ref="char:EOLhyphen"/>jection upon true Chriſtian, firm princi<g ref="char:EOLhyphen"/>ples that will not fail, nor will ever be Tainted with any ſuſpicion of Plotts and Treaſons.</p>
+            <p>By compliance honeſtly with which, we and our King ſhall both be ſafe, live happily, and piouſly here, and both be tranſlated to eternal ſecurity and happi<g ref="char:EOLhyphen"/>neſs hereafter. To which God of his Infinite Mercies bring us all, for Chriſt Jeſus ſake. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
